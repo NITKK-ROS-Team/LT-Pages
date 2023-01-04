@@ -2,7 +2,7 @@
 
 2023年3月25日に第1回LT会を行います。
 
-イベントURL (Connpass) : [nitkk-ros-team.connpass.com](https://nitkk-ros-team.connpass.com/)
+イベント公開予定URL (Connpass) : [nitkk-ros-team.connpass.com](https://nitkk-ros-team.connpass.com/)
 
 <br>
 
@@ -57,7 +57,7 @@ LT会では対象者に制限を設けていませんので、オープン可能
 
 <br>
 
-## 更新履歴
+## 主な変更
 
 | 日付 | 内容 |
 | --- | --- |
