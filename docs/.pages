@@ -1,4 +1,7 @@
 nav:
-    - Title_main: index.md
-    - Title1: 01_title1
-    - Title2: 02_title2
+    - ROS-Team LT: index.md
+    - プログラム: 01_program
+    - 登録: 02_registration
+    - 運営: 03_committees
+    - 場所: 04_venue
+    - 過去の開催情報: 05_past
