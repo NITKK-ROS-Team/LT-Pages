@@ -8,6 +8,10 @@
 
 <br>
 
+登壇者向けフォーム：[URL](https://forms.gle/BdHAQWPK4FbQ7vbw6)
+
+<br>
+
 ## 聴講者向け
 
 2022/3/1にconnpassで募集を行います。
