@@ -6,7 +6,7 @@
 
 <br>
 
-タグは #ROS-Team-LT でお願いします。
+タグは #ROS_Team_LT でお願いします。
 
 <br>
 
