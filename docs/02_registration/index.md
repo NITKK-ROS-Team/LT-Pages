@@ -16,8 +16,8 @@
 
 ## 聴講者向け
 
-2023/3/1にconnpassで募集を行います。
+今回のミーティングでは、Discord上でURLを共有いたします。
 
-参加費は未定です。
+登録は [こちら]https://nitkk-ros-team.github.io/04_discord/index.html） から確認してください。（github.ioへのURL)
 
 <br>
