@@ -16,8 +16,8 @@
 
 ## 聴講者向け
 
-今回のミーティングでは、Discord上でURLを共有いたします。
-
 登録は[こちら](https://nitkk-ros-team.github.io/04_discord/index.html）から確認してください。（github.ioへのURL)
+
+参加費は無料です。
 
 <br>
