@@ -18,6 +18,6 @@
 
 今回のミーティングでは、Discord上でURLを共有いたします。
 
-登録は [こちら]https://nitkk-ros-team.github.io/04_discord/index.html） から確認してください。（github.ioへのURL)
+登録は[こちら](https://nitkk-ros-team.github.io/04_discord/index.html）から確認してください。（github.ioへのURL)
 
 <br>
